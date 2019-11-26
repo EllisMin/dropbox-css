@@ -18,6 +18,7 @@ body {
   color: #333;
   display: inline-block;
   padding: 1rem;
+  z-index: 1;
   /* child ul's going to be absolute based on it's pos */
   position: relative;
 }
@@ -89,7 +90,7 @@ body {
   text-align: center;
   padding: 0 2rem;
 
-  background: coral;
+  background: darkgray;
 }
 #showcase h1 {
   color: #fff;
