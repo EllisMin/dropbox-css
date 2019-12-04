@@ -18,7 +18,6 @@ body {
   color: #333;
   display: inline-block;
   padding: 1rem;
-  z-index: 1;
   /* child ul's going to be absolute based on it's pos */
   position: relative;
 }
